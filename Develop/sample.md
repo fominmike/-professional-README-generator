@@ -1,4 +1,4 @@
-# README
+# ReadMe
   ![license](https://img.shields.io/badge/license-MIT_License-blue.svg)
 
   ## Table of Contents
@@ -21,7 +21,7 @@
   ## Description
   this is a readme generator
   ## Installation
-  to intall this application you press install
+  to install this application press install
   ## Usage
   lorem ipsum
   ## Contribution
